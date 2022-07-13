@@ -1,0 +1,82 @@
+body 
+{
+    font-family: 'Grand Hotel', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-yellow 
+{
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark 
+{
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+
+.fs-70 
+{
+    font-size: 70px;
+}
+
+.fs-18 
+{
+    font-size: 18px;
+}
+
+.fw-700 
+{
+    font-weight: 700;
+}
+
+.mr-autos
+{
+    float: right;
+}
+
+.mr-8 
+{
+    margin-top: 2em;
+    margin-left: 40em;
+}
+
+.mt-6 
+{
+    margin-top: -5em;
+}
+
+.b-s 
+{
+    border-radius: 5em;
+transform: scale(0.9);
+
+}
+
+.mr-autoss
+{
+    font-size: 11px;
+    margin-top: -77em;
+}
+
+.mr-autosss
+{
+    font-size: 12px;
+}
+
+.mt-7 
+{
+    margin-top: 8em;
+}
+
+.ft-3 
+{
+    font-size: 13px;
+    text-decoration: none;
+    color: grey;
+}
+
+.ft-3:hover 
+{
+    text-decoration: none;
+    color:black;
+}
